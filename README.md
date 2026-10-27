@@ -30,7 +30,7 @@ This project is a personal Curriculum Vitae (CV) website created to showcase my 
 ## Live Website
 The website will be deployed using Vercel.
 
-**Live URL:** Add your Vercel deployment link here after publishing.
+**Live URL:** https://vercel.com/li-lo-li
 
 ## GitHub Profile
 Visit my GitHub profile: https://github.com/li-lo-li
